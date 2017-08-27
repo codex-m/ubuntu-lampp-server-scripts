@@ -76,5 +76,3 @@ update-alternatives --set phpize /usr/bin/phpize7.0
 service php7.0-fpm reload;
 # Restart apache2
 service apache2 restart;
-# Reboot
-reboot;
