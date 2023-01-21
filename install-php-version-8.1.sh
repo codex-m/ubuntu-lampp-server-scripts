@@ -29,7 +29,7 @@ apt-get install php8.1-fpm;
 apt-get install php8.1-mysql;
 
 # Install important PHP developer libraries in their version 8.0
-apt-get install php8.1-curl php8.1-gd php8.1-intl php8.1-imap php8.1-ps php8.1-pspell php8.1-recode php8.1-snmp php8.1-sqlite php8.1-tidy php8.1-xmlrpc php8.1-xsl php8.1-zip php8.1-xml php8.1-dev; 
+apt-get install php8.1-curl php8.1-gd php8.1-intl php8.1-imap php8.1-ps php8.1-pspell php8.1-snmp php8.1-sqlite3 php8.1-tidy php8.1-xmlrpc php8.1-xsl php8.1-zip php8.1-xml php8.1-dev; 
 
 # Run an update
 apt-get update;
